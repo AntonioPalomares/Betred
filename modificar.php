@@ -41,7 +41,8 @@ try{
 
         {
         
-            $ruta="location: modificacionyaltas.php?idm=".$id;
+                     $ruta="location: modificacionyaltas.php?dub=1&idm=".$id;
+
             //echo "Complete todos los campos, por favor";
         echo $tarjeta;
         echo $tarjeta2;
